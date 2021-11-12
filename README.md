@@ -28,11 +28,11 @@ The purpose of this excercise is to modify given code to create a password gener
 ## Git
 
 - Successfully cloned started code to local computer and created new 
-Git repository (Challenge1A) to hold reworked code and README.md
-https://github.com/RauchDavis13/Challenge1A.git
+Git repository (Challenge3A) to hold reworked code and README.md
+https://github.com/RauchDavis13/Challenge3a.git
 
 - Successfully created live Git based URL
-https://rauchdavis13.github.io/Challenge1A/
+https://rauchdavis13.github.io/Challenge3a/
 
 
 ## Thank you's....

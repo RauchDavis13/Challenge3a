@@ -23,11 +23,9 @@ var upperY = "";
 var lowerY = "";
 var numY = "";
 var specY = "";
-
 var charLength = "";
 var passChar = "";
 const passArray = []
-console.log(password)
 
 // Write password to the #password input
 function writePassword() {
@@ -37,7 +35,7 @@ function writePassword() {
   //charCode = '';
   var charCode = "";
 
-  window.alert("Please select the following variables");
+  window.alert("Please select the character length and variables");
   var charLength = parseInt(prompt("How many characters (8-128)?"));
 
  //declare length of character string, if true, then set other variables
@@ -83,7 +81,7 @@ function writePassword() {
         
       // test to make sure at least one password variable is selected
       if (charCode.length==0) {
-      window.alert("Please select at least one variable to include in the password!")
+      window.alert("Please select character length and at least one variable to include in the password!")
       writePassword();
       }
       
